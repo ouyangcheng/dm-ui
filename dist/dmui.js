@@ -23133,7 +23133,7 @@ if (false) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), false)
   if (!hotAPI.compatible) return
-  var id = "_v-4ce24da2/editor.vue"
+  var id = "_v-478f7a7d/editor.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
