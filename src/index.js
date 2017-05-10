@@ -1,4 +1,4 @@
-import editor from './components/editor/index'
+// import editor from './components/editor/index'
 import iview from 'iview'
 import 'iview/dist/styles/iview.css'
 import './style/index.scss'
