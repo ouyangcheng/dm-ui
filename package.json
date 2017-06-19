@@ -1,6 +1,6 @@
 {
   "name": "dm-ui",
-  "version": "0.1.7",
+  "version": "1.0.0-0",
   "description": "A Vue.js UI Toolkit for Web",
   "main": "dist/dev/dmui.js",
   "keywords": [
@@ -11,11 +11,12 @@
   "scripts": {
     "precommit": "dm lint --commit"
   },
-  "dependencies": {},
+  "dependencies": {
+    "iview": "^2.0.0-rc.17",
+    "vue": "^2.3.4"
+  },
   "devDependencies": {
-    "vue": "1.0.17",
-    "iview": "1.0.1",
-    "dm-devdep": "0.1.16"
+    "dm-devdep": "vue2"
   },
   "license": "MIT",
   "homepage": "",
