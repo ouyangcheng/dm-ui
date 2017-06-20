@@ -23,5 +23,9 @@ dm pack [newversion]
 
 可以参考npm version
 npm version [<newversion> | major | minor | patch | premajor | preminor | prepatch | prerelease | from-git]
+```
 
+## 发布到npm
+```shell
+npm publish --tag [tagname]
 ```
