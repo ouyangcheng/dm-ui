@@ -10,7 +10,11 @@ dm install
 ## 启动服务
 ```shell
 dm start
+
+调试 localhost:14001
+文档 localhost:14001/docs
 ```
+
 
 ## 校验格式化代码(默认dm lint 格式化src文件夹)
 ```shell
