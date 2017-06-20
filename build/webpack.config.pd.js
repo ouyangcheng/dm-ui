@@ -69,7 +69,7 @@ module.exports = {
       loader: 'vue-loader',
       options: {
         loaders: {
-          css: 'style!css!sass'
+          css: 'style-loader!css-loader!sass-loader'
         }
       }
     }, {
