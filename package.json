@@ -16,7 +16,8 @@
     "vue": "^2.3.4"
   },
   "devDependencies": {
-    "dm-devdep": "vue2"
+    "dm-devdep": "vue2",
+    "vue-router": "^2.6.0"
   },
   "license": "MIT",
   "homepage": "",

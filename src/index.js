@@ -2,8 +2,11 @@
 import iview from 'iview'
 import 'iview/dist/styles/iview.css'
 import './style/index.scss'
+import richEditor from './components/richEditor/richEditor.vue'
 
-const dmui = {}
+const dmui = {
+  richEditor
+}
 
 const install = function (Vue, opts = {}) {
   Vue.use(iview)
