@@ -84,7 +84,10 @@ module.exports = {
     }]
   },
   resolve: {
-    modules: ['node_modules']
+    modules: ['node_modules'],
+    alias: {
+      'vue': 'vue/dist/vue.js'
+    }
   },
   plugins: [
     new ProgressBarPlugin({
