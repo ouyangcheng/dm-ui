@@ -1,6 +1,6 @@
 {
   "name": "dm-ui",
-  "version": "1.0.0-13",
+  "version": "1.0.0-14",
   "description": "A Vue.js UI Toolkit for Web",
   "main": "dist/pd/dmui.js",
   "keywords": [
