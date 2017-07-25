@@ -1,6 +1,6 @@
 {
   "name": "dm-ui",
-  "version": "1.0.0-12",
+  "version": "1.0.0-13",
   "description": "A Vue.js UI Toolkit for Web",
   "main": "dist/pd/dmui.js",
   "keywords": [
@@ -9,8 +9,8 @@
     "components"
   ],
   "devDependencies": {
-    "dm-cli": "0.4.7",
-    "iview": "^2.0.0-rc.18",
+    "dm-cli": "^0.4.7",
+    "iview": "2.0.0-rc.19",
     "vue-router": "^2.6.0"
   },
   "license": "MIT",
