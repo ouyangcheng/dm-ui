@@ -1712,9 +1712,9 @@ diffie-hellman@^5.0.0:
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
 
-dm-cli@^0.4.7:
-  version "0.4.7"
-  resolved "http://registry.npm.taobao.org/dm-cli/download/dm-cli-0.4.7.tgz#24162c3d7ebcb07808d1a09d2a794d210cc237a1"
+dm-cli@vue2:
+  version "0.4.8-2"
+  resolved "http://registry.npm.taobao.org/dm-cli/download/dm-cli-0.4.8-2.tgz#91eab5d1d01c24a9d18b01d42522daf8c7a5a777"
   dependencies:
     autoprefixer "6.7.2"
     axios "0.16.2"
